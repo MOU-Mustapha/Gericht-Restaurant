@@ -1,0 +1,9 @@
+export { default as AboutUs } from "./AboutUs/AboutUs.jsx";
+export { default as Chef } from "./Chef/Chef.jsx";
+export { default as FindUs } from "./FindUs/FindUs.jsx";
+export { default as Footer } from "./Footer/Footer.jsx";
+export { default as Gallery } from "./Gallery/Gallery.jsx";
+export { default as Header } from "./Header/Header.jsx";
+export { default as Intro } from "./Intro/Intro.jsx";
+export { default as Laurels } from "./Laurels/Laurels.jsx";
+export { default as Menu } from "./Menu/Menu.jsx";
